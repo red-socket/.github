@@ -1,0 +1,59 @@
+name: Bug report
+description: Something in the mod doesn't work the way it should.
+labels: ["bug"]
+assignees: ["lucas-pospor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Please check the open issues first in case someone has already reported it.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem, and what you expected to happen instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make it happen ourselves?
+      placeholder: |
+        1. Load a save
+        2. Open ...
+        3. See the problem
+    validations:
+      required: true
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod version
+      placeholder: e.g. 1.2.0
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: Game version and platform
+      placeholder: e.g. 1.6.15 on Steam, Windows 11
+    validations:
+      required: true
+  - type: input
+    id: loader-version
+    attributes:
+      label: Mod loader version
+      description: The SMAPI or MelonLoader version you use.
+      placeholder: e.g. SMAPI 4.1.10
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: |
+        For Stardew Valley, upload your SMAPI log at https://smapi.io/log and paste the link.
+        For MelonLoader games, attach `MelonLoader/Latest.log` from the game folder.
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods
+      description: Which other mods do you have installed, if any?

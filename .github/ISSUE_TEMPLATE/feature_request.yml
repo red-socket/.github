@@ -1,0 +1,24 @@
+name: Feature request
+description: Suggest an idea or an improvement.
+labels: ["enhancement"]
+assignees: ["lucas-pospor"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: What takes too long, gets repeated too often or goes wrong too easily?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like the mod to do about it?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything else?
+      description: Other ways you've thought about, other mods that do something similar, screenshots.
