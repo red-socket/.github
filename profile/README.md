@@ -27,26 +27,14 @@ We make games, mods and tools. Our mods keep the game's rules as they are and ta
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/red-socket/plaintext">Plaintext</a></h3>
-      <p>A game-first platform for learning <b>cryptography</b> and informatics: encodings, classic ciphers, hidden data and how computers store things, taught through puzzles in the style of ARGs and puzzle hunts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/built%20with-Astro-555" alt="Built with Astro">
-        <img src="https://img.shields.io/github/license/red-socket/plaintext?color=555" alt="License">
-      </p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
 </table>
 
 ## Get involved
 
 - **Found a bug or have an idea?** Open an issue in the project's repository. [Getting help](https://github.com/red-socket/.github/blob/main/.github/SUPPORT.md) explains what to include.
 - **Want SDV++ in your language?** The [translation guide](https://github.com/red-socket/sdvpp#translations) explains how.
-- **Want to write a puzzle for Plaintext?** Start with its [contributing guide](https://github.com/red-socket/plaintext/blob/main/CONTRIBUTING.md) and [authoring guide](https://github.com/red-socket/plaintext/blob/main/docs/AUTHORING.md).
 - **Want to contribute code?** Read the [contributing guide](https://github.com/red-socket/.github/blob/main/.github/CONTRIBUTING.md) and our [code of conduct](https://github.com/red-socket/.github/blob/main/.github/CODE_OF_CONDUCT.md).
 - **Found a security issue?** Please report it privately, as our [security policy](https://github.com/red-socket/.github/blob/main/.github/SECURITY.md) describes.
-- **Like one of our projects?** A star on its repository helps other players find it.
+- **Like a mod?** A star on its repository helps other players find it.
 
 <sub>Our mods are unofficial fan projects. They aren't affiliated with or endorsed by the games' developers or publishers.</sub>
