@@ -1,6 +1,6 @@
 # Red Socket
 
-Red Socket is the name a group of friends puts on the things we make. It isn't a company, just a label for our projects.
+We make games, mods and tools.
 
 ## Projects
 
