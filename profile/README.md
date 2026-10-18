@@ -13,7 +13,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       <p>
         <a href="https://github.com/red-socket/blueprinceqol/releases/latest"><img src="https://img.shields.io/github/v/release/red-socket/blueprinceqol?label=release&color=c0392b" alt="Latest release"></a>
         <img src="https://img.shields.io/badge/MelonLoader-0.7.3%2B-555" alt="MelonLoader 0.7.3+">
-        <img src="https://img.shields.io/github/license/red-socket/blueprinceqol?color=555" alt="License">
+        <img src="https://img.shields.io/badge/license-GPL--3.0-555" alt="License">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -23,7 +23,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       <p>
         <a href="https://github.com/red-socket/blueprince-notes/releases/latest"><img src="https://img.shields.io/github/v/release/red-socket/blueprince-notes?label=release&color=c0392b" alt="Latest release"></a>
         <img src="https://img.shields.io/badge/MelonLoader-0.7.3%2B-555" alt="MelonLoader 0.7.3+">
-        <img src="https://img.shields.io/github/license/red-socket/blueprince-notes?color=555" alt="License">
+        <img src="https://img.shields.io/badge/license-GPL--3.0-555" alt="License">
       </p>
     </td>
   </tr>
@@ -35,7 +35,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       <p>
         <a href="https://github.com/red-socket/sdvpp/releases/latest"><img src="https://img.shields.io/github/v/release/red-socket/sdvpp?label=release&color=c0392b" alt="Latest release"></a>
         <img src="https://img.shields.io/badge/SMAPI-4.0%2B-555" alt="SMAPI 4.0+">
-        <img src="https://img.shields.io/github/license/red-socket/sdvpp?color=555" alt="License">
+        <img src="https://img.shields.io/badge/license-AGPL--3.0-555" alt="License">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -44,7 +44,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       <p>A game-first platform for learning <b>cryptography</b> and informatics: encodings, classic ciphers, hidden data and how computers store things, taught through puzzles in the style of ARGs and puzzle hunts.</p>
       <p>
         <img src="https://img.shields.io/badge/built%20with-Astro-555" alt="Built with Astro">
-        <img src="https://img.shields.io/github/license/red-socket/plaintext?color=555" alt="License">
+        <img src="https://img.shields.io/badge/license-AGPL--3.0-555" alt="License">
       </p>
     </td>
   </tr>
