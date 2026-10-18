@@ -1,8 +1,38 @@
 # Red Socket
 
-We make games, mods and tools.
+We make games, mods and tools. Our mods keep the game's rules as they are and take out the waiting, the repeated clicks and the small accidents. Every feature can be turned off.
 
 ## Projects
 
-- [Blue Prince QoL](https://github.com/red-socket/blueprinceqol): a MelonLoader mod for Blue Prince that cuts down on waiting, with shorter animations and fades and an options menu inside the game.
-- [SDV++](https://github.com/red-socket/sdvpp): a quality-of-life mod for Stardew Valley 1.6, with confirmations before warping, a log pile that stores wood, sprinkler and scarecrow range previews, new minecart stops and more.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/red-socket/blueprinceqol"><img src="https://raw.githubusercontent.com/red-socket/blueprinceqol/main/docs/images/header.jpg" alt="Blue Prince QoL"></a>
+      <h3><a href="https://github.com/red-socket/blueprinceqol">Blue Prince QoL</a></h3>
+      <p>A MelonLoader mod for <b>Blue Prince</b> that cuts down on waiting: shorter animations and fades, instant terminal text, an in-game clock and an options menu in the game's own style.</p>
+      <p>
+        <a href="https://github.com/red-socket/blueprinceqol/releases/latest"><img src="https://img.shields.io/github/v/release/red-socket/blueprinceqol?label=release&color=c0392b" alt="Latest release"></a>
+        <img src="https://img.shields.io/badge/MelonLoader-0.7.3%2B-555" alt="MelonLoader 0.7.3+">
+        <img src="https://img.shields.io/github/license/red-socket/blueprinceqol?color=555" alt="License">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/red-socket/sdvpp"><img src="https://raw.githubusercontent.com/red-socket/sdvpp/main/media/banner.png" alt="SDV++"></a>
+      <h3><a href="https://github.com/red-socket/sdvpp">SDV++</a></h3>
+      <p>A quality-of-life mod for <b>Stardew Valley 1.6</b>, in single-player and co-op: confirmations before warping, a log pile that stores wood, sprinkler and scarecrow range previews, new minecart stops and more.</p>
+      <p>
+        <a href="https://github.com/red-socket/sdvpp/releases/latest"><img src="https://img.shields.io/github/v/release/red-socket/sdvpp?label=release&color=c0392b" alt="Latest release"></a>
+        <img src="https://img.shields.io/badge/SMAPI-4.0%2B-555" alt="SMAPI 4.0+">
+        <img src="https://img.shields.io/github/license/red-socket/sdvpp?color=555" alt="License">
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Get involved
+
+- **Found a bug or have an idea?** Open an issue in the project's repository.
+- **Want SDV++ in your language?** The [translation guide](https://github.com/red-socket/sdvpp#translations) explains how.
+- **Like a mod?** A star on its repository helps other players find it.
+
+<sub>Our mods are unofficial fan projects. They aren't affiliated with or endorsed by the games' developers or publishers.</sub>
