@@ -39,6 +39,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/red-socket/plaintext"><img src="https://raw.githubusercontent.com/red-socket/plaintext/main/docs/images/header.png" alt="Plaintext"></a>
       <h3><a href="https://github.com/red-socket/plaintext">Plaintext</a></h3>
       <p>A game-first platform for learning <b>cryptography</b> and informatics: encodings, classic ciphers, hidden data and how computers store things, taught through puzzles in the style of ARGs and puzzle hunts.</p>
       <p>
