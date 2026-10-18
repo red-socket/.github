@@ -17,6 +17,7 @@ We make games, mods and tools. Our mods keep the game's rules as they are. They 
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/red-socket/blueprince-notes"><img src="https://raw.githubusercontent.com/red-socket/blueprince-notes/main/docs/images/header.jpg" alt="Blue Prince Notes"></a>
       <h3><a href="https://github.com/red-socket/blueprince-notes">Blue Prince Notes</a></h3>
       <p>A MelonLoader mod for <b>Blue Prince</b> that adds an in-game notebook: press F2 during a day to write and search notes, each stamped with the day and the room.</p>
       <p>
