@@ -1,4 +1,4 @@
-# Red Socket
+# <img src="red-socket.svg" width="36" height="36" alt=""> Red Socket
 
 We make games, mods and tools. Our mods keep the game's rules as they are. They take out the waiting, the repeated clicks and the small accidents, or bring the notes you'd keep on paper into the game. Every feature can be turned off.
 
