@@ -31,8 +31,10 @@ We make games, mods and tools. Our mods keep the game's rules as they are and ta
 
 ## Get involved
 
-- **Found a bug or have an idea?** Open an issue in the project's repository.
+- **Found a bug or have an idea?** Open an issue in the project's repository. [Getting help](https://github.com/red-socket/.github/blob/main/.github/SUPPORT.md) explains what to include.
 - **Want SDV++ in your language?** The [translation guide](https://github.com/red-socket/sdvpp#translations) explains how.
+- **Want to contribute code?** Read the [contributing guide](https://github.com/red-socket/.github/blob/main/.github/CONTRIBUTING.md) and our [code of conduct](https://github.com/red-socket/.github/blob/main/.github/CODE_OF_CONDUCT.md).
+- **Found a security issue?** Please report it privately, as our [security policy](https://github.com/red-socket/.github/blob/main/.github/SECURITY.md) describes.
 - **Like a mod?** A star on its repository helps other players find it.
 
 <sub>Our mods are unofficial fan projects. They aren't affiliated with or endorsed by the games' developers or publishers.</sub>
